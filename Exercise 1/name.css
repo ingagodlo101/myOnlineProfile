@@ -1,0 +1,13 @@
+#myHeading {
+    color: green;
+    font-family: italic;
+}
+
+#myBtn {
+    background-color: powderblue;
+    border-radius: 40%;
+}
+
+#myParagraph {
+    font-style: italic;
+}

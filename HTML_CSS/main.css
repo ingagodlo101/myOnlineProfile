@@ -1,0 +1,30 @@
+#myNav {
+    background-color: blue;
+    color: white;
+}
+
+.navLink {
+    color: white;
+}
+
+#heading {
+    color: red;
+}
+
+hr {
+    height: 3px;
+    background-color: blue;
+    border: none;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+input[type="radio"] {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: #d1d3d1;
+}
